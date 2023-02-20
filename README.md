@@ -4,7 +4,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **MongoDB, JS e NodeJS** Atraves da Udemy e vídeos no Youtube.
+- 🎓 &nbsp; **MongoDB, JS e NodeJS**
 - 💼 &nbsp; Trabalhando como **Analista de Suporte** na <a href="https://www.linkedin.com/company/proa-ai">PROA.AI</a>
 - 🌱 &nbsp; Aprendendo mais sobre **IA e Machine Learning**.
 
