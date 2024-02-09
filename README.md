@@ -8,6 +8,8 @@
 - 💼 &nbsp; Trabalhando como **Analista de Suporte** na <a href="https://www.linkedin.com/company/proa-ai">PROA.AI</a>
 - 🌱 &nbsp; Aprendendo mais sobre **IA e Machine Learning**.
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paulo_)](https://github.com/o-paulo/github-readme-stats)
+
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
